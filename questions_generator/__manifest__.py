@@ -8,9 +8,9 @@
 Automatic Question Generation (AQG) is the technique for generating a right set of questions from a content. Question Generators use trained machine learning algorithms to generate questions using some text information as the input. Given information is processed through the neural networks as a hidden step. As the output, we get questions with different variants of answers.
 
     """,
-    "author": "My Company",
+    "author": "Sprinterra",
     "license": 'LGPL-3',
-    "website": "http://www.yourcompany.com",
+    "website": "https://www.sprinterra.com/",
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/14.0/odoo/addons/base/data/ir_module_category_data.xml
     # for the full list
@@ -26,7 +26,7 @@ Automatic Question Generation (AQG) is the technique for generating a right set 
         "views/slide_view.xml",
         "views/res_config_settings_view.xml",
     ],
-    "images": ['static/description/icon.png'],
+    "images": ['static/description/icon.png', 'static/description/baner.mp4'],
     # only loaded in demonstration mode
     "demo": [
         "demo/demo.xml",
