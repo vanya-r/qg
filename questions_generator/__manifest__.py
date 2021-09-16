@@ -4,9 +4,12 @@
     "summary": """
         questions generation test""",
     "description": """
-        Long description of module's purpose
+        A combination of an eLearning app and Automatic Question Generation. 
+Automatic Question Generation (AQG) is the technique for generating a right set of questions from a content. Question Generators use trained machine learning algorithms to generate questions using some text information as the input. Given information is processed through the neural networks as a hidden step. As the output, we get questions with different variants of answers.
+
     """,
     "author": "My Company",
+    "license": 'LGPL-3',
     "website": "http://www.yourcompany.com",
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/14.0/odoo/addons/base/data/ir_module_category_data.xml
