@@ -26,6 +26,7 @@ Automatic Question Generation (AQG) is the technique for generating a right set 
         "views/slide_view.xml",
         "views/res_config_settings_view.xml",
     ],
+    "images": ['static/description/icon.png'],
     # only loaded in demonstration mode
     "demo": [
         "demo/demo.xml",
