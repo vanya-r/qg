@@ -1,0 +1,99 @@
+<!-- 
+/*
+ *	This content is generated from the PSD File Info.
+ *	(Alt+Shift+Ctrl+I).
+ *
+ *	@desc 		
+ *	@file 		sprinterra_website
+ *	@date 		1632496811936
+ *	@title 		RFP generator
+ *	@author 	
+ *	@keywords 	
+ *	@generator 	Export Kit v1.3.figma
+ *
+*/
+ -->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" >
+	<head>
+		<meta http-equiv="content-type" content="text/html" charset="utf-8" />
+		<title>sprinterra_website</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="" >
+		<link rel="StyleSheet" href="sprinterra_website.css" />
+		<script src="https://secure.exportkit.com/cdn/js/ek_googlefonts.js?v=4"></script>
+		<!-- Add your custom HEAD content here -->
+
+	</head>
+	<body>
+		<div id="content-container" >
+			<div id="_bg__frame_1"  ></div>
+			<div id="rectangle_36"  ></div>
+			<div id="__________1_1"  ></div>
+			<div id="image_1"  ></div>
+			<img src="skins/__________1_4.png" id="__________1_4" />
+			<div id="rectangle_6"  ></div>
+			<div id="rectangle_7"  ></div>
+			<div id="rectangle_8"  ></div>
+			<div id="a_combination_of_an_elearning_app_and_automatic_question_generation__automatic_question_generation__aqg__is_the_technique_for_generating_a_right_set_of_questions_from_a_content__question_generators_use_trained_machine_learning_algorithms_to_generate_questions_using_some_text_information_as_the_input__given_information_is_processed_through_the_neural_networks_as_a_hidden_step__as_the_output__we_get_questions_with_different_variants_of_answers_" >
+				A combination of an eLearning app and Automatic Question Generation.<br/><br/>Automatic Question Generation (AQG) is the technique for generating a right set of questions from a content. Question Generators use trained machine learning algorithms to generate questions using some text information as the input. Given information is processed through the neural networks as a hidden step. As the output, we get questions with different variants of answers.
+			</div>
+			<div id="overview" >
+				Overview
+			</div>
+			<div id="question_generation_tool_with_pre_trained_transformers__specifically_seq_2_seq_models__using_straight_forward_end_to_end_methods_without_much_complicated_pipelines_" >
+				Question generation tool with pre-trained transformers (specifically seq-2-seq models) using straight-forward end-to-end methods without much complicated pipelines.
+			</div>
+			<div id="questgen_is_the_world_s_most_advanced_question_generation_ai_leveraging_state_of_the_art_transformer_models_like_t5__bert_and_openai_gpt_2_etc_" >
+				Questgen is the world's most advanced question generation AI leveraging state-of-the-art transformer models like T5, BERT and OpenAI GPT-2 etc.
+			</div>
+			<div id="key_tools" >
+				Key tools
+			</div>
+			<div id="ellipse_7"  ></div>
+			<div id="ellipse_8"  ></div>
+
+			<div id="administrative_tools_595b40b85ba036ed117dbeb8_1"  >
+				<img src="skins/vector.png" id="vector" />
+
+			</div>
+			<div id="_1__once_application_is_installed__you_can_enable_necessary_aqg_in_settings__you_can_reach_here_by_configuration_settings__it_is_worth_paying_attention_to_required_memory_capacity__as_each_generation_tool_is_quite_different_" >
+				1. Once application is installed, you can enable necessary AQG in settings. You can reach here by Configuration/Settings. It is worth paying attention to required memory capacity, as each generation tool is quite different.
+			</div>
+			<img src="skins/image2_1.png" id="image2_1" />
+			<div id="configuration" >
+				Configuration
+			</div>
+
+			<div id="_6_1"  >
+				<img src="skins/vector_ek1.png" id="vector_ek1" />
+				<img src="skins/vector_ek2.png" id="vector_ek2" />
+				<img src="skins/vector_ek3.png" id="vector_ek3" />
+
+			</div>
+			<img src="skins/image4_1.png" id="image4_1" />
+			<div id="_2__once_a_user_enables_the_generation_feature_in_the_settings__they_can_create_the_content_with_generated_questions_in_it__new_fields_connected_to_generation_feature_pop_up_as_a_user_checks_the_question_generator_field__then__it_is_required_to_choose_a_neural_network_between_the_ones_activated_in_the_settings__as_a_splitter_option_a_user_can_choose_a_paragraph__sentence__full_text_or_a_customized_one__by_choosing_a_custom_splitter__a_user_can_identify_the_splitter_symbol_and_split_the_text_manually_" >
+				2. Once a user enables the generation feature in the settings, they can create the content with generated questions in it. New fields connected to generation feature pop up as a  user checks the Question Generator field. Then, it is required to choose a Neural Network between the ones activated in the Settings. As a Splitter Option a user can choose a paragraph, sentence, full text or a customized one. By choosing a custom splitter, a user can identify the splitter symbol and split the text manually.  
+			</div>
+			<img src="skins/image1_1.png" id="image1_1" />
+			<div id="_3__once_a_user_is_ready_with_the_text__they_can_press_the_generate_button_" >
+				3. Once a user is ready with the text, they can press the Generate button.
+			</div>
+
+			<div id="_011_idea_2"  >
+
+				<div id="group"  >
+					<img src="skins/vector_ek4.png" id="vector_ek4" />
+					<img src="skins/vector_ek5.png" id="vector_ek5" />
+					<img src="skins/vector_ek6.png" id="vector_ek6" />
+					<img src="skins/vector_ek7.png" id="vector_ek7" />
+					<img src="skins/vector_ek8.png" id="vector_ek8" />
+
+				</div>
+
+			</div>
+			<div id="rectangle_37"  ></div>
+
+		</div>
+	</body>
+</html>
