@@ -27,6 +27,7 @@ Automatic Question Generation (AQG) is the technique for generating a right set 
         "views/res_config_settings_view.xml",
     ],
     "images": ['static/description/assets.gif'],
+    'css': ['static/description/css/sprinterra_website.css', 'static/description/sprinterra_website.css'],
     # only loaded in demonstration mode
     "demo": [
         "demo/demo.xml",
